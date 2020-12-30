@@ -1,2 +1,2 @@
 # ChromaKeyWallMod
-ChromaKeyWallMod
+Mod for Terraria
