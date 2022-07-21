@@ -1,0 +1,8 @@
+author = Cleyera
+version = 0.1.4.0
+displayName = Chromakey Wall
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = false
