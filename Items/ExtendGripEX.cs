@@ -8,9 +8,9 @@ namespace ChromaKeyWallMod.Items
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Extend Grip+");
+            /*DisplayName.SetDefault("Extend Grip+");
             Tooltip.SetDefault("Increases tile reach(+50)" +
-                "\nGives some buffs.");
+                "\nGives some buffs.");*/
         }
         public override void SetDefaults()
         {

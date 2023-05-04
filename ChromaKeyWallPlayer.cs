@@ -22,18 +22,6 @@ namespace ChromaKeyWallMod
         {
             if (Main.netMode != NetmodeID.Server)
             {
-                if (TileEraserType == 0 && UseDelay == 10 && Player.inventory[Player.selectedItem].type == ItemType<ExtendPickaxe>())
-                {
-                    Main.NewText("Tile Eraser: Normal Pickaxe", 255, 255, 255);
-                }
-                else if (TileEraserType == 1 && UseDelay == 10 && Player.inventory[Player.selectedItem].type == ItemType<ExtendPickaxe>())
-                {
-                    Main.NewText("Tile Eraser: Invisible Block Eraser", 200, 200, 255);
-                }
-                else if (TileEraserType == 2 && UseDelay == 10 && Player.inventory[Player.selectedItem].type == ItemType<ExtendPickaxe>())
-                {
-                    Main.NewText("Tile Eraser: Invisible Platform Eraser", 200, 200, 255);
-                }
                 if (WallEraserType == 0 && UseDelay == 10 && Player.inventory[Player.selectedItem].type == ItemType<ExtendHammer>())
                 {
                     Main.NewText("Wall Eraser: Normal Hammer", 255, 255, 255);

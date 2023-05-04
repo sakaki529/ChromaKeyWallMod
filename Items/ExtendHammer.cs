@@ -10,7 +10,7 @@ namespace ChromaKeyWallMod.Items
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Wall Eraser");
+            /*DisplayName.SetDefault("Wall Eraser");
             Tooltip.SetDefault("On eraser mode, left click to delete walls that from this mod" +
                 "\n-Type list-" +
                 "\n Normal Hammer" +
@@ -18,7 +18,7 @@ namespace ChromaKeyWallMod.Items
                 "\n [c/00ff00:Green Screen Eraser]" +
                 "\n [c/0000ff:Blue Screen Eraser]" +
                 "\n [c/ffff00:Yellow Screen Eraser]" +
-                "\n [c/ffffff:White Screen Eraser]");
+                "\n [c/ffffff:White Screen Eraser]");*/
         }
         public override void SetDefaults()
         {

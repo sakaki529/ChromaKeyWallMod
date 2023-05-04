@@ -7,7 +7,7 @@ namespace ChromaKeyWallMod.Items.Walls
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Yellow Screen");
+            //DisplayName.SetDefault("Yellow Screen");
         }
         public override void SetDefaults()
         {
