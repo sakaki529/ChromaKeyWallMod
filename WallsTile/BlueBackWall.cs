@@ -12,6 +12,7 @@ namespace ChromaKeyWallMod.WallsTile
             Main.wallHouse[Type] = true;
             AddMapEntry(new Color(0, 0, 255));
             DustType = -1;
+            RegisterItemDrop(-1);
         }
         public override bool PreDraw(int i, int j, SpriteBatch spriteBatch)
         {

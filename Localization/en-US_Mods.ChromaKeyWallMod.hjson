@@ -1,0 +1,52 @@
+Items: {
+	ExtendGripEX: {
+		DisplayName: Extend Grip E X
+		Tooltip: ""
+	}
+
+	ExtendHammer: {
+		DisplayName: Extend Hammer
+		Tooltip: ""
+	}
+
+	BlueBackWall: {
+		DisplayName: Blue Back Wall
+		Tooltip: ""
+	}
+
+	GreenBackWall: {
+		DisplayName: Green Back Wall
+		Tooltip: ""
+	}
+
+	RedBackWall: {
+		DisplayName: Red Back Wall
+		Tooltip: ""
+	}
+
+	WhiteBackWall: {
+		DisplayName: White Back Wall
+		Tooltip: ""
+	}
+
+	YellowBackWall: {
+		DisplayName: Yellow Back Wall
+		Tooltip: ""
+	}
+}
+
+Configs: {
+	ClientConfiguration: {
+		DisplayName: Config
+
+		WallLighting: {
+			Label: Toggle wall lighting
+			Tooltip: ""
+		}
+
+		IntensityFloat: {
+			Label: Light intensity
+			Tooltip: ""
+		}
+	}
+}
